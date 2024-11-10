@@ -1,0 +1,40 @@
+body {
+  font-family: Didot, sans-serif;
+  background-color:#09102c;
+}
+
+.Erotus {
+  padding-bottom: 15%;
+  padding-top: 1%;
+  background-size: cover;
+}
+.Paasivu main {
+  color: whitesmoke;
+  padding: 3rem;
+}
+.Paasivu h1 {
+  font-weight: bold;
+  color: whitesmoke;
+  font-size: 50px;
+  font-family: Didot, sans-serif;
+  margin-bottom: 1rem;
+}
+.väli {
+  margin-bottom: 3rem;
+}
+.Paasivu p {
+  font-size: 22px;
+  text-align: left;
+}
+.Kartta {
+  height: 28rem;
+  width: 40rem;
+  float: right;
+}
+
+.karttakuva {
+  width:550px;
+  height:400px;
+  object-fit: contain;
+  object-position: center;
+}
